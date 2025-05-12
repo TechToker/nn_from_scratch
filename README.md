@@ -1,2 +1,2 @@
-# nn_from_scratch
+# NN from scratch
 By using only stones and sticks (i.e python with numpy) implemenation of basic MLP networks
