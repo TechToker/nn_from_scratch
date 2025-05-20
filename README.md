@@ -11,8 +11,7 @@ Incude training and backpropagation from scratch!
   - Linear layer
   - Tanh
   - Binary cross-entropy
-- CNN MLP multiclass classification on MNIST dataset
-Trained on only 128 samples (batchsize=8) due to performance issues
+- CNN MLP multiclass classification on MNIST dataset (trained on only 128 samples with batchsize=8 due to performance issues)
   - Conv layer 
   - MaxPool
   - ReLU
