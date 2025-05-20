@@ -1,7 +1,7 @@
 # NN from scratch
 By using only stones and sticks (i.e python with numpy) implemenation of basic MLP architectures
 
-Incude training and backpropagation from scratch!
+**Incude training and backpropagation from scratch!**
 
 - MLP regression on AutoMPG dataset
   - Linear layer
