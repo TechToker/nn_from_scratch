@@ -20,6 +20,6 @@ Incude training and backpropagation from scratch!
 
 |Model|Train score|Val score|
 |:-------------:|:-------------:|:-------------:|
-|AutoMPG|MAE 1.7997|MAE 1.93|
+|AutoMPG|MAE: 1.7997|MAE: 1.93|
 |Titanic|acc 0.79|acc: 0.79|
-|MNIST |acc: 0.9062|0.7801|
+|MNIST |acc: 0.9062|acc:0.7801|
