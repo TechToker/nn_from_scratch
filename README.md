@@ -1,4 +1,4 @@
-# NN from scratch
+# NN from scratch with backprop
 By using only stones and sticks (i.e python with numpy) implemenation of basic MLP architectures
 
 **Incude training and backpropagation from scratch!**
